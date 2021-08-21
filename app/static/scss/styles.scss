@@ -1,0 +1,53 @@
+/*Lato font*/
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;1,400&display=swap");
+$lato: "Lato", sans-serif;
+
+/*DM sans font*/
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap");
+$dmsans: "DM Sans", sans-serif;
+
+/*Common colours*/
+
+/*Black and white*/
+$white: #f8faff;
+$pure-white: #ffffff;
+$neuralworks-white: #ecebe7;
+$black: #333333;
+$pure-black: #000000;
+
+/*Red*/
+$red: #ff0000;
+$fun-red: #e17a77;
+$fun-orange: #f4af78;
+
+/*Green*/
+$green: #008000;
+$fun-green: #85ec6b;
+$neon-green: #39ff14;
+
+/*Blue*/
+$blue: #0000ff;
+$facebook-blue: #4267b2;
+$twitter-blue: #1da1f2;
+$fun-blue: #729fec;
+$discord-blue-old: #7289da;
+$neuralworks-blue: #437085;
+$hestia-purple: #5900cc;
+
+/* Elements */
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: $black;
+  font-family: $dmsans;
+}
+p {
+  color: $black;
+  font-family: $lato;
+}
+
+body {
+  text-align: center;
+}

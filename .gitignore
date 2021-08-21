@@ -13,6 +13,8 @@ env__/
 app/db.sqlite3
 venv/
 
+app/static/css/
+
 # .gitignore
 # Bare Minimum Git
 # https://salferrarello.com/starter-gitignore-file/
